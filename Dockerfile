@@ -9,4 +9,4 @@ RUN set -x \
   && apt-get update \
   && apt-get -y install cdbs devscripts quilt reprepro \
   && apt-get -y install xauth \
-  && apt-get -y install git cmake
+  && apt-get -y install git cmake vim
